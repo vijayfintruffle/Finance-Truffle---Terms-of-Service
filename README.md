@@ -6,6 +6,7 @@
 
 <p>
   FinanceTruffle helps households and individuals to manage their budgets using the zero based budgeting method. 
+  
 
 By accessing or using the FinanceTruffle website, located at www.financetruffle.com, or the FinanceTruffle application, or any successor websites and applications, including any and all international or mobile versions thereof (the “Services”), or by otherwise accessing any portion of FinanceTruffle’s programs, you (“you”) agree to be bound by this Terms of Use Agreement (this “Agreement”) and any agreements, policies and other documents incorporated by reference herein. In addition, if you wish to become a registered user of the Services (“User”), please read this Terms of Use Agreement and indicate your acceptance by clicking the I agree checkbox on FinanceTruffle’s Registration Form.  
 
