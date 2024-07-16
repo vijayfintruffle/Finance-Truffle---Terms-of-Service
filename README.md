@@ -17,19 +17,19 @@ In addition, you understand, agree, and acknowledge that Apple and Apple’s sub
 
 You may receive a written copy of this Agreement by emailing us at: [support at financetruffle.com], Subject: FinanceTruffle Terms of Use Agreement. 
 
-# 1. TERM
+## 1. TERM
     
 This Agreement will remain in full force and effect while you use the Services. The Services are intended solely for users eighteen (18) years of age or older. Any registration by, use of or access to the Services by anyone under eighteen (18) is unauthorized, unlicensed, and in violation of these Terms of Use. The use of the “FinanceTruffle Free” plan under the Services is currently free of charge. To the extent we decide in our sole and absolute discretion to charge for the Services, we will notify you of the same, and you agree to either pay the appropriate fees in order to obtain such services or to discontinue use of the Services. 
 
-# 2. REGISTRATION DATA; ACCOUNT SECURITY. 
+## 2. REGISTRATION DATA; ACCOUNT SECURITY. 
 
 You agree to (a) provide accurate, current, and complete information on any registration forms on the Services (“Registration Data”); (b) maintain the security of your password and identification; (c) maintain and promptly update the Registration Data, and any other information you provide to us, to keep it accurate, current, and complete; and (d) be fully responsible for all use of your account and for any actions that take place using your account. You consent to receiving communications and notices from FinanceTruffle at the email address you provide in your Registration Data or otherwise elect in your account settings. 
 
-# 3. NON COMMERCIAL USE. 
+## 3. NON COMMERCIAL USE. 
 
 The Services are for the use by Users in their individual capacities as FinanceTruffle Users only, may not be used in connection with any commercial or other endeavors, and may not be duplicated, resold, or assigned by you. Organizations, companies, and/or businesses may not use the Services for any purpose other than those contemplated in this Terms of Use or Privacy Policy. Illegal and/or unauthorized uses by you of the Services, including collecting user names and/or email addresses of Users by electronic or other means for any reason, including — but not limited to, the purpose of sending unsolicited emails and unauthorized framing of or linking to the Services — is a violation of this Agreement, and appropriate legal action may be taken, including, without limitation, civil, criminal, and injunctive redress. 
 
-# 4. PROPRIETARY RIGHTS IN THE SERVICES; LIMITED LICENSE. 
+## 4. PROPRIETARY RIGHTS IN THE SERVICES; LIMITED LICENSE. 
 
 All content on the Services and their selection and arrangement but excluding User Content (the “Services Content”), are the proprietary property of FinanceTruffle or its licensors, with all rights reserved. No Services Content may be modified, copied, distributed, framed, reproduced, republished, downloaded, scraped, displayed, posted, transmitted, or sold in any form or by any means, in whole or in part, without our prior written permission. Subject to these Terms of Use, you are granted a limited non-transferable license to access and use the Services and the Services Content on any device you legally own or control subject to any terms of use associated with that device, and to download or print a copy of any properly-accessed portion of the Services Content solely for your personal, non-commercial use, provided that you keep all copyright or other proprietary notices intact. Such license does not permit use of any data mining, robots, scraping, or similar data gathering or extraction methods. You further agree not to access (or attempt to access) any of the Services by any means other than through the interfaces provided by FinanceTruffle. You may not rent, lease, lend, sell, redistribute, or sublicense any portion of the Services. Unless explicitly stated herein, nothing in these Terms of Use will be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise. We may revoke this license at any time without notice and with or without cause. 
 
@@ -41,11 +41,11 @@ FinanceTruffle shall not be liable to you or to any third party for any modifica
 
 For avoidance of doubt, the parties understand, agree and acknowledge that Apple or Google has no obligation whatsoever to furnish any maintenance and support services with respect to the Services. 
 
-# 5. TRADEMARKS. 
+## 5. TRADEMARKS. 
 
 “FinanceTruffle”, the “FinanceTruffle” logo and other FinanceTruffle graphics, logos, designs, page headers, button icons, scripts, and service names are our trademarks or trade dress in the U.S. and/or other countries. Our trademarks and trade dress may not be used, including as part of trademarks and/or as part of domain names, in connection with any product or service in any manner that is likely to cause confusion and may not be copied, imitated, or used, in whole or in part, without our prior written permission. 
 
-# 6. USER CONTENT POSTED ON THE SERVICES. 
+## 6. USER CONTENT POSTED ON THE SERVICES. 
 
 Your account, transaction, and budget information, and other information that you may from time-to-time provide, whether directly or indirectly such as through a financial data aggregation system, to the Services (collectively, “User Content”) belong to you and will be used solely to provide the Services to you in ways consistent with this Agreement. You retain copyright and any other rights you already hold in the User Content. By providing the User Content, you automatically grant and you represent and warrant that you own or have the necessary license, rights, consents, and permissions to grant, to FinanceTruffle a perpetual, irrevocable, worldwide, royalty-free and non-exclusive license to use, reproduce, display, adapt, modify, distribute, perform, and publish within the Services and for the purpose of providing the Services any content which you provide to the Services. Your account, transaction, and envelope information will only be published in a manner that is accessible through your account. 
 
@@ -65,11 +65,11 @@ You will not enter anyone’s social security, driver’s license, passport, cre
 
 You will not use FinanceTruffle if you are located in a country embargoed by the United States, or are on the United States Treasury Department’s list of Specially Designated Nationals. By using the Services, you represent and warrant that (i) you are not located in a country that is subject to U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties. 
 
-# 7. PRIVACY. 
+## 7. PRIVACY. 
 
 Use of the Services is also governed by our Privacy Policy available at www.financetruffle.com/privacy-policy/. 
 
-# 8. SUBSCRIPTIONS 
+## 8. SUBSCRIPTIONS 
 
 Except with the “Free” plan, FinanceTruffle charges a subscription fee (“Subscription Fee”) for the duration of your use of the Services. In this document, “Period” refers to the subscription interval for which a Subscription Fee is charged and Services are provided. A single Period can be one month or twelve (12) months depending on amount of the Subscription Fee. 
 
@@ -79,7 +79,7 @@ The Subscription Fee for each of the Services depends on the Service. FinanceTru
 
 Subscription Fees may be charged to your account in advance on a periodic basis. The Subscription Fee is non-refundable. There will be no refunds or credits for partial Periods of Service or for Periods unused with an open account. You are responsible for payment of all taxes, levies, or duties imposed by taxing authorities on your Subscription Fee. 
 
-# 9. SUBSCRIPTIONS TERMS AND TERMINATION 
+## 9. SUBSCRIPTIONS TERMS AND TERMINATION 
 
 All Services are made available on a periodic basis through the FinanceTruffle website, the Apple App Store, and Google Play. Periodic subscriptions will be automatically renewed by FinanceTruffle unless you disable a Service or disable automatic renewal. 
 
@@ -89,19 +89,19 @@ Disabling any Service may cause the loss of content, features, or capacity of yo
 
 FinanceTruffle, in its sole discretion, may immediately terminate this Agreement, your account and all current or future use of the Services, for any reason at any time. Termination of your account includes removal of your access to all Services, and the forfeiture and relinquishment of all User Content in your account. FinanceTruffle reserves the right to refuse services to anyone for any reason at any time. 
 
-# 10. INTELLECTUAL PROPERTY RIGHTS COMPLAINTS. 
+## 10. INTELLECTUAL PROPERTY RIGHTS COMPLAINTS. 
 
 When we receive proper notification of alleged copyright infringement, we will investigate and may remove or disable access to the allegedly infringing material and may terminate, in our sole discretion, the accounts of repeat infringers in accordance with the Digital Millennium Copyright Act and other applicable law. We may also, at our sole discretion, limit access to the Services and/or terminate the membership of any Users who infringe any intellectual property rights of others, whether or not there is any repeat infringement. If you believe that any material on the Services infringes upon any copyright which you own or control, you may contact us. FinanceTruffle will assess the material and may remove the material from public viewing. 
 
-# 11. THIRD PARTY SERVICES, WEBSITES, AND CONTENT. 
+## 11. THIRD PARTY SERVICES, WEBSITES, AND CONTENT. 
 
 Use of the Services may require Internet access. User agrees to accept any additional terms of service of any third party service required to access the Services. The Services contain or may contain in the future (or you may be sent through the Services) links to other web sites (“Third Party Sites”) as well as articles, photographs, text, items and other content belonging to or originating from third parties (the “Third Party Components”). Such Third Party Sites and Third Party Components are not investigated, monitored or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for the acts or omissions of any Third Party Sites or Third Party Components. If you decide to leave the Services and access the Third Party Sites or to use or install any Third Party Components, you do so at your own risk and our terms and policies no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any Third Party Services to which you navigate from the Services or relating to any Third Party Components. 
 
-# 12. VIRAL DISTRIBUTION WIDGETS. 
+## 12. VIRAL DISTRIBUTION WIDGETS. 
 
 In order to promote the Services, we may supply widgets that allow you to incorporate your content in Third Party Sites. If you choose to use such widgets, you give us permission to export to Third Party Sites some features of your profile. Such features that may be exported to Third Party Sites include, but are not limited to, your name and picture. Widgets we supply will clearly indicate what information they will export to Third Party Sites. 
 
-# 13. DISCLAIMER OF WARRANTIES. 
+## 13. DISCLAIMER OF WARRANTIES. 
 
 YOUR USE OF THE SERVICES ARE AT YOUR SOLE RISK. THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. FINANCETRUFFLE AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, LICENSORS AND USERS EXPRESSLY DISCLAIM TO YOU ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
 
@@ -113,13 +113,13 @@ NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM FINANCET
 
 IN ADDITION, FOR AVOIDANCE OF DOUBT, APPLE/GOOGLE SHALL HAVE NO WARRANTY OBLIGATIONS WHATSOEVER WITH RESPECT TO THE SERVICES OR ANY DATA ACCESSED THEREWITH AND SHALL HAVE NO RESPONSIBILITY FOR ANY CLAIMS, LOSSES, LIABILITIES, DAMAGES, COSTS OR EXPENSES ATTRIBUTABLE TO ANY FAILURE TO CONFORM TO ANY WARRANTIES. 
 
-# 14. LIMITATION ON LIABILITY. 
+## 14. LIMITATION ON LIABILITY. 
 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT FINANCTRUFFLE AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, LICENSORS, AND USERS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, PUNITIVE, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, COSTS, LOSSES, OR EXPENSES, INCLUDING, BUT NOT LIMITED TO, THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF FINANCETRUFFLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY TO USE THE SERVICES; (b) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (c) ANY OTHER MATTER RELATING TO THE SERVICES. 
 
 IN NO EVENT SHALL THE AGGREGATE LIABILITY OF FINANCETRUFFLE ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE SERVICES, EXCEED THE EQUIVALENT OF ONE (1) PERIOD OF SUBSCRIPTION FEES ACTUALLY PAID BY YOU. 
 
-# 15. EXCLUSIONS AND LIMITATIONS. 
+## 15. EXCLUSIONS AND LIMITATIONS. 
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 13 AND 14 MAY NOT APPLY TO YOU TO THE EXTENT SO PROHIBITED BY LAW. 
 
@@ -127,27 +127,27 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMIT
 
 If there is any dispute about or involving the Services, you agree that the dispute will be governed by the laws of the State of California without regard to its conflict of law provisions and will be resolved in a state or federal court located in San Francisco, California. You agree to personal jurisdiction by and venue in the state and federal courts of the State of California, City of San Francisco. 
 
-# 17. INDEMNITY. 
+## 17. INDEMNITY. 
 
 You agree to indemnify and hold FinanceTruffle, its subsidiaries and affiliates, and each of their directors, officers, agents, contractors, partners, and employees, harmless from any loss, liability, claim, or demand, including reasonable attorney’s fees, made by any third party due to or arising out of your use of the Services, any User Content you post on or through the Services and/or arising from a breach of this Agreement. 
 
 You and FinanceTruffle acknowledge that in the event of any third party claim that the Services or your possession and use of such Services infringes that third party’s intellectual property rights, FinanceTruffle, not Apple, not Google, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim, and solely to the extent FinanceTruffle has such responsibilities. 
 
-# 18. FINANCETRUFFLE ASSIGNMENT. 
+## 18. FINANCETRUFFLE ASSIGNMENT. 
 
 FinanceTruffle may assign any of its rights or obligations under this Agreement to (a) any subsidiary or affiliated legal entity; (b) any entity that acquires all or substantially all of the assets of FinanceTruffle; or (c) any entity that acquires all or substantially all of FinanceTruffle’s interest in the Services and/or related assets from FinanceTruffle. You acknowledge and agree that in the event such a transaction occurs, these entities will be entitled to provide the Services to you in accordance with this Agreement and the FinancTruffle privacy policy. 
 
-# 19. OTHER. 
+## 19. OTHER. 
 
 This Agreement (together with any agreements, policies, or other documents incorporated by reference herein), accepted upon use of the Services and further affirmed by becoming a registered User, contains the entire agreement between you and FinanceTruffle regarding the use of the Services and/or the programs offered by FinanceTruffle. If any provision of this Agreement is held invalid, the remainder of this Agreement shall continue in full force and effect. Our failure to exercise or enforce any right or provision of these Terms of Use will not constitute a waiver of such right or provision in that or any other instance. If any provision of these Terms of Use is held invalid, the remainder of these Terms of Use will continue in full force and effect. If any provision of these Terms of Use is deemed unlawful, void, or for any reason unenforceable, then that provision will be deemed severable from these Terms of Use and will not affect the validity and enforceability of any remaining provisions. These Terms of Use are in the English language only, which language will be controlling in all respects, and all versions hereof in any other language will not be binding on the parties hereto. All communications and notices to be made or given pursuant to these Terms of Use will be in the English language. Paragraphs 5, 13, 14, 15, 16, 17, and 18 will survive termination of this Agreement. 
 
-# 20. ADDITIONAL TERMS FOR USERS OF FINANCETRUFFLE ON IOS. 
+## 20. ADDITIONAL TERMS FOR USERS OF FINANCETRUFFLE ON IOS. 
 
 By downloading a version of FinanceTruffle built for Apple’s iOS (the “Licensed Application”), you additionally agree to the following terms: 
 Your license to the Licensed Application is a non-transferable license to use the Licensed Application on an iOS Product that You own or control and as permitted by the Usage Rules set forth in the App Store Terms of Service. 
 In the event of any failure of the service to conform to any applicable warranty, you may notify Apple, who may refund any relevant payment made for the Service. To the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the Service. Any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty shall be the sole responsibility of FinanceTruffle, governed by the terms set forth in Paragraphs 1 through 19 of this Agreement. 
 
-# Contact Information 
+## Contact Information 
 
 Any questions, complaints, or claims with respect to the Services can be directed to: support@financetruffle.com 
 </p>
