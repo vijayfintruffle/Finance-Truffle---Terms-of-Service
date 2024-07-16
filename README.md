@@ -1,4 +1,4 @@
-# A first-level heading
+
 <p align="center">
   <h1>Finance Truffle - Terms of Service</h1>
 </p>
@@ -17,7 +17,7 @@ In addition, you understand, agree, and acknowledge that Apple and Apple’s sub
 
 You may receive a written copy of this Agreement by emailing us at: [support at financetruffle.com], Subject: FinanceTruffle Terms of Use Agreement. 
 </p>
-#1. TERM. 
+# A first-level heading 1. TERM. 
 <p>
 This Agreement will remain in full force and effect while you use the Services. The Services are intended solely for users eighteen (18) years of age or older. Any registration by, use of or access to the Services by anyone under eighteen (18) is unauthorized, unlicensed, and in violation of these Terms of Use. The use of the “FinanceTruffle Free” plan under the Services is currently free of charge. To the extent we decide in our sole and absolute discretion to charge for the Services, we will notify you of the same, and you agree to either pay the appropriate fees in order to obtain such services or to discontinue use of the Services. 
 </p>
