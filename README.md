@@ -16,12 +16,12 @@ You understand, agree, and acknowledge that FinanceTruffle is solely responsible
 In addition, you understand, agree, and acknowledge that Apple and Apple’s subsidiaries  or google and Google’s subsidiaries, are third party beneficiaries of this Agreement. Upon your acceptance of the terms and conditions of this Agreement Apple or Google, as a third party beneficiary of this Agreement, shall have the right (and will be deemed to have accepted the right) to enforce this Agreement against you. 
 
 You may receive a written copy of this Agreement by emailing us at: [support at financetruffle.com], Subject: FinanceTruffle Terms of Use Agreement. 
-</p>
-# TERM. 
-<p>
+
+ <h2>1. TERM.</h2>
+    
 This Agreement will remain in full force and effect while you use the Services. The Services are intended solely for users eighteen (18) years of age or older. Any registration by, use of or access to the Services by anyone under eighteen (18) is unauthorized, unlicensed, and in violation of these Terms of Use. The use of the “FinanceTruffle Free” plan under the Services is currently free of charge. To the extent we decide in our sole and absolute discretion to charge for the Services, we will notify you of the same, and you agree to either pay the appropriate fees in order to obtain such services or to discontinue use of the Services. 
-</p>
-# REGISTRATION DATA; ACCOUNT SECURITY. 
+
+# 2. REGISTRATION DATA; ACCOUNT SECURITY. 
 
 You agree to (a) provide accurate, current, and complete information on any registration forms on the Services (“Registration Data”); (b) maintain the security of your password and identification; (c) maintain and promptly update the Registration Data, and any other information you provide to us, to keep it accurate, current, and complete; and (d) be fully responsible for all use of your account and for any actions that take place using your account. You consent to receiving communications and notices from FinanceTruffle at the email address you provide in your Registration Data or otherwise elect in your account settings. 
 
